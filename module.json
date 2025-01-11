@@ -4,8 +4,8 @@
     "version": "0.3.3",
     "authors": [
         {
-            "name": "btbias",
-            "url": "https://github.com/btbias",
+            "name": "ryanpdemilt",
+            "url": "https://github.com/ryanpdemilt",
             "discord": "btbias#9324"
         }
     ],
@@ -160,8 +160,7 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/btbias/5e-complete",
-    "manifest": "https://github.com/btbias/5e-complete/releases/latest/download/module.json",
-    "download": "https://github.com/btbias/5e-complete/releases/download/v0.3.3/module.zip",
+    "url": "https://github.com/ryanpdemilt/5e-complete",
+    "manifest": "https://github.com/ryanpdemilt/5e-complete/raw/main/module.json",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
